@@ -3,7 +3,7 @@ import {} from 'react'
 function Footer(){
     return(
         <>
-        <h1>Footer</h1>
+        <p>Email: biel121203@gmail.com</p>
         </>
     )
 }
