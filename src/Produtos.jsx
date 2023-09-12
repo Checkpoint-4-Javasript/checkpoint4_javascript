@@ -12,7 +12,7 @@ function Produtos(){
         </figcaption>
 
         <figure>
-            <img src="https://fastly.picsum.photos/id/2/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY" alt="Lorem ipsum image" />
+            <img src="http://lorempixel.com.br/450/200/?1" alt="Lorem ipsum image" />
         </figure>
         <figcaption>
             <p>Lorem ipsum</p>
