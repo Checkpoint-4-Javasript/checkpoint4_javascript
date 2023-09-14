@@ -5,7 +5,7 @@ function Sobre(){
         <>
         <h1>Sobre</h1>
         <figure>
-            <img src="http://lorempixel.com.br/450/200/?4" alt="Lorem ipsum image" />
+            <img src="http://lorempixel.com.br/450/200" alt="Lorem ipsum image" />
         </figure>
         <figcaption>
             <p>
